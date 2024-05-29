@@ -3,6 +3,7 @@ import logo from "../assets/images/logo-hym.png"
 import CartWidget from "./CartWidget";
 
 const NavBar = () => {
+
     return(
         <div className="container-fluid">
             <div className="row bg-light p-4">
